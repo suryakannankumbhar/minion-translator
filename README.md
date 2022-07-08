@@ -25,6 +25,7 @@ TalkLikeMinion
 <br/>
 
 <h3>TechStack</h3>
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML--Green)
 ![](https://img.shields.io/badge/CSS--Green)
 ![](https://img.shields.io/badge/JavaScript--Green)
