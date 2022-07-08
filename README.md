@@ -13,15 +13,19 @@ TalkLikeMinion
 <br />
 <h3>API Source</h3>
 <p>FunTanslations allows 5 API calls per hour which can be increased by upgrading to Paid Plans</p>
-<p><a href="https://funtranslations.com/api/minion">https://funtranslations.com/api/minion</a></p>
+<p><a href="https://funtranslations.com/api/minion">https://funtranslations.com/api/minion</a>
+<kbd><img src="/images/Screenshot%202022-07-08%20231711.png" width="700px" ></kbd></p>
 
 <h3>Home</h3>
-<kbd><img src="/images/Screenshot%202022-07-08%20231711.png" width="700px" ></kbd>
-<kbd><img src="/images/Screenshot%202022-07-08%20235051.png" width="700px" ></kbd>
-<kbd><img src="/images/Screenshot%202022-07-08%20235139.png" width="700px" ></kbd>
-<kbd><img src="/images/Screenshot%202022-07-08%20235210.png" width="700px" ></kbd>
-<kbd><img src="/images/Screenshot%202022-07-08%20235302.png" width="700px" ></kbd>
-<kbd><img src="/images/Screenshot%202022-07-08%20235328.png" width="700px" ></kbd>
+<p><kbd><img src="/images/Screenshot%202022-07-08%20235051.png" width="700px" ></kbd></p>
+<p><kbd><img src="/images/Screenshot%202022-07-08%20235139.png" width="700px" ></kbd></p>
+<p><kbd><img src="/images/Screenshot%202022-07-08%20235210.png" width="700px" ></kbd></p>
+<p><kbd><img src="/images/Screenshot%202022-07-08%20235302.png" width="700px" ></kbd></p>
+<p><kbd><img src="/images/Screenshot%202022-07-08%20235328.png" width="700px" ></kbd></p>
+
+
+
+
 
 
 
