@@ -40,7 +40,7 @@ TalkLikeMinion
 
 <h3>Let's Connect?</h3>
 
-<p>You can find me on <a href="https://twitter.com/SuryaKKumbhar"> Twitter <img src="http://i.imgur.com/wWzX9uB.png" width="20"></a>,  or on <a href="https://www.linkedin.com/in/suryakannankumbhar/"> LinkedIn <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" width="20"></a>.</p>
+<p>You can find me on <a href="https://twitter.com/SuryaKKumbhar" target="_blank"> Twitter <img src="http://i.imgur.com/wWzX9uB.png" width="20"></a>,  or on <a href="https://www.linkedin.com/in/suryakannankumbhar/" target="_blank"> LinkedIn <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" width="20"></a>.</p>
 
 
 
