@@ -36,3 +36,9 @@ TalkLikeMinion
 
 <h3>My Stats</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suryakannankumbhar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<br />
+
+<h3>Let's Connect?</h3>
+
+You can find me on [![Twitter][http://i.imgur.com/wWzX9uB.png]][https://twitter.com/Martin_Heinz_], or on [![LinkedIn][https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png]][https://www.linkedin.com/in/heinz-martin/].
+
