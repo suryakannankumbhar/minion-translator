@@ -2,7 +2,7 @@
 <h1 align="center">
 TalkLikeMinion
 </h1>
-<div><img src="https://media.giphy.com/media/1uPiL9Amv5zkk/giphy.gif" width="300px" align='right'>
+<div><img src="https://media.giphy.com/media/1uPiL9Amv5zkk/giphy.gif" width="250px" align='right'>
 </div>
 
 
@@ -22,16 +22,15 @@ TalkLikeMinion
 <p><kbd><img src="/images/Screenshot%202022-07-08%20235210.png" width="700px" ></kbd></p>
 <p><kbd><img src="/images/Screenshot%202022-07-08%20235302.png" width="700px" ></kbd></p>
 <p><kbd><img src="/images/Screenshot%202022-07-08%20235328.png" width="700px" ></kbd></p>
+<br/>
+
+<h3>TechStack</h3>
+![](https://img.shields.io/badge/HTML--Green)
+![](https://img.shields.io/badge/CSS--Green)
+![](https://img.shields.io/badge/JavaScript--Green)
+![](https://img.shields.io/badge/API-FunTranslations-Green)
+<br/>
 
 
-
-
-
-
-
-
-
-
-
-
+<h3>My Stats</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suryakannankumbhar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
