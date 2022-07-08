@@ -11,10 +11,16 @@ TalkLikeMinion
 <p>TalkLikeMinion is a <strong>API</strong> based WebApp build using <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>.</p>
 <p>The WebApp uses <strong>Minion Translation API</strong> by <strong>FunTranslations</strong>.</p>
 <br />
+
+<h3>TechStack</h3>
+<img src="https://img.shields.io/static/v1?label=HTML&message= &color=green"> <img src="https://img.shields.io/static/v1?label=CSS&message= &color=orange"> <img src="https://img.shields.io/static/v1?label=JavaScript&message= &color=blue"> <img src="https://img.shields.io/static/v1?label=API&message=FunTranslations&color=blueviolet">
+<br />
+
 <h3>API Source</h3>
 <p>FunTanslations allows 5 API calls per hour which can be increased by upgrading to Paid Plans</p>
 <p><a href="https://funtranslations.com/api/minion">https://funtranslations.com/api/minion</a>
 <kbd><img src="/images/Screenshot%202022-07-08%20231711.png" width="700px" ></kbd></p>
+<br />
 
 <h3>Home</h3>
 <p><kbd><img src="/images/Screenshot%202022-07-08%20235051.png" width="700px" ></kbd></p>
@@ -22,13 +28,6 @@ TalkLikeMinion
 <p><kbd><img src="/images/Screenshot%202022-07-08%20235210.png" width="700px" ></kbd></p>
 <p><kbd><img src="/images/Screenshot%202022-07-08%20235302.png" width="700px" ></kbd></p>
 <p><kbd><img src="/images/Screenshot%202022-07-08%20235328.png" width="700px" ></kbd></p>
-<br/>
-
-<h3>TechStack</h3>
-<img src="https://img.shields.io/static/v1?label=HTML&message= &color=green">
-<img src="https://img.shields.io/static/v1?label=CSS&message= &color=orange">
-<img src="https://img.shields.io/static/v1?label=JavaScript&message= &color=blue">
-<p><img src="https://img.shields.io/static/v1?label=API&message=FunTranslations&color=blueviolet?style=social&logo=appveyor"></p>
 <br/>
 
 
