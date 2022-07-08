@@ -13,7 +13,10 @@ TalkLikeMinion
 <br />
 
 <h3>TechStack</h3>
+<div flexDirection="row">
 <img src="https://img.shields.io/static/v1?label=HTML&message= &color=green"> <img src="https://img.shields.io/static/v1?label=CSS&message= &color=orange"> <img src="https://img.shields.io/static/v1?label=JavaScript&message= &color=blue"> <img src="https://img.shields.io/static/v1?label=API&message=FunTranslations&color=blueviolet">
+</div>
+![](https://img.shields.io/static/v1?label=HTML&message= &color=green)
 <br />
 
 <h3>API Source</h3>
