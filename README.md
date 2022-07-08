@@ -16,17 +16,18 @@ TalkLikeMinion
 <p><a href="https://funtranslations.com/api/minion">https://funtranslations.com/api/minion</a></p>
 
 <h3>Home</h3>
-<img src="/images/Screenshot%202022-07-08%20231711.png" width="700px" >
+<kbd><img src="/images/Screenshot%202022-07-08%20231711.png" width="700px" ></kbd>
+<kbd><img src="/images/Screenshot%202022-07-08%20235051.png" width="700px" ></kbd>
+<kbd><img src="/images/Screenshot%202022-07-08%20235139.png" width="700px" ></kbd>
+<kbd><img src="/images/Screenshot%202022-07-08%20235210.png" width="700px" ></kbd>
+<kbd><img src="/images/Screenshot%202022-07-08%20235302.png" width="700px" ></kbd>
+<kbd><img src="/images/Screenshot%202022-07-08%20235328.png" width="700px" ></kbd>
 
-<img src="/images/Screenshot%202022-07-08%20235051.png" width="700px" >
 
-<img src="/images/Screenshot%202022-07-08%20235139.png.png" width="700px" >
 
-<img src="/images/Screenshot%202022-07-08%20235210.png" width="700px" >
 
-<img src="/images/Screenshot%202022-07-08%20235302.png" width="700px" >
 
-<img src="/images/Screenshot%202022-07-08%20235328.png" width="700px" >
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suryakannankumbhar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
