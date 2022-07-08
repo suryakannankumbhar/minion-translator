@@ -25,11 +25,10 @@ TalkLikeMinion
 <br/>
 
 <h3>TechStack</h3>
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HTML--Green)
-![](https://img.shields.io/badge/CSS--Green)
-![](https://img.shields.io/badge/JavaScript--Green)
-![](https://img.shields.io/badge/API-FunTranslations-Green)
+<img src="https://img.shields.io/static/v1?label=HTML&message= &color=green">
+<img src="https://img.shields.io/static/v1?label=CSS&message= &color=orange">
+<img src="https://img.shields.io/static/v1?label=JavaScript&message= &color=blue">
+<p><img src="https://img.shields.io/static/v1?label=API&message=FunTranslations&color=blueviolet?style=social&logo=appveyor"></p>
 <br/>
 
 
