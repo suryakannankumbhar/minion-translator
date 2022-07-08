@@ -16,13 +16,13 @@ TalkLikeMinion
 <div flexDirection="row">
 <img src="https://img.shields.io/static/v1?label=HTML&message= &color=green"> <img src="https://img.shields.io/static/v1?label=CSS&message= &color=orange"> <img src="https://img.shields.io/static/v1?label=JavaScript&message= &color=blue"> <img src="https://img.shields.io/static/v1?label=API&message=FunTranslations&color=blueviolet">
 </div>
-![](https://img.shields.io/static/v1?label=HTML&message= &color=green)
+
 <br />
 
 <h3>API Source</h3>
 <p>FunTanslations allows 5 API calls per hour which can be increased by upgrading to Paid Plans</p>
-<p><a href="https://funtranslations.com/api/minion">https://funtranslations.com/api/minion</a>
-<kbd><img src="/images/Screenshot%202022-07-08%20231711.png" width="700px" ></kbd></p>
+<p><a href="https://funtranslations.com/api/minion">https://funtranslations.com/api/minion</a></p>
+<kbd><img src="/images/Screenshot%202022-07-08%20231711.png" width="700px" ></kbd>
 <br />
 
 <h3>Home</h3>
@@ -40,7 +40,7 @@ TalkLikeMinion
 
 <h3>Let's Connect?</h3>
 
-<p>You can find me on Twitter <img src="http://i.imgur.com/wWzX9uB.png" width="20">,  or on LinkedIn <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" width="20">.</p>
+<p>You can find me on <a href="https://twitter.com/SuryaKKumbhar"> Twitter <img src="http://i.imgur.com/wWzX9uB.png" width="20"></a>,  or on <a href="https://www.linkedin.com/in/suryakannankumbhar/"> LinkedIn <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" width="20"></a>.</p>
 
 
 
